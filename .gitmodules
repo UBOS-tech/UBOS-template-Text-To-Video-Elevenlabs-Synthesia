@@ -1,0 +1,8 @@
+[submodule "UBOS-template-Text-To-Video-Elevenlabs-Synthesia-ui"]
+	path = UBOS-template-Text-To-Video-Elevenlabs-Synthesia-ui
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-Text-To-Video-Elevenlabs-Synthesia-ui.git
+	branch = main
+[submodule "UBOS-template-Text-To-Video-Elevenlabs-Synthesia-nr"]
+	path = UBOS-template-Text-To-Video-Elevenlabs-Synthesia-nr
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-Text-To-Video-Elevenlabs-Synthesia-nr.git
+	branch = master
